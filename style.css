@@ -1,0 +1,114 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;;
+}
+#header{
+    background-image: url("../project/images/header-bg.png");
+    background-repeat: repeat;
+    padding: 60px;
+    
+    
+}
+section{
+    height: 953px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-right: 2%;
+    padding: 3%;
+    text-align: left;
+}
+.content {
+	margin-top: 210px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+h2{
+    font-size: 30px;
+    margin-top: 0;
+}
+img{
+    max-width: 100%;
+    ;
+}
+.name{
+    color: #EC4B74;
+}
+p{
+    color: darkgrey;
+    text-align: justify;
+}
+a{
+    background: linear-gradient(35deg,pink,red);
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+#dream{
+    background-image: url('../project/images/biography-bg.png');
+    padding: 60px;
+}
+#portfolio {
+    padding: 60px;
+    height: 513px;
+}
+#portfolio h2{
+    text-align: center;
+}
+#testimonial{
+    height: auto;
+}
+#testimonial h3{
+    text-align: center;
+}
+.work{
+    width: 30%;
+    float: left;
+    margin: 1%;
+    
+}
+.work img{
+    width: 100%;
+}
+#testimonial h3,h6 {
+	text-align: center;
+}
+#testimonial h6{
+    font-size: 17px;
+    margin: 0;
+}
+#testimonial p {
+	text-align: center;
+	width: 500px;
+	margin: auto;
+    margin-bottom: 22px;
+    margin-top: 10px;
+}
+.message{
+    background: linear-gradient(35deg,pink,red);
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.message h6{
+    font-size: 14px;
+}
+.message h5{
+    font-size: 19px;
+}
+footer p{
+    text-align: center;
+    padding: 10px;
+    margin-top: 70px;
+}
